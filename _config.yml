@@ -1,0 +1,18 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - BBC-BASIC-for-Agon.md
+  - External-Documentation.md
+  - FAQ.md
+  - GPIO.md
+  - MOS-API.md
+  - MOS.md
+  - Projects.md
+  - Third-Party-Projects.md
+  - Updating-Firmware.md
+  - VDP---Enhanced-Audio-API.md
+  - VDP.md
