@@ -2,7 +2,7 @@
 
 The MOS is a command line machine operating system, similar to CP/M or DOS, that provides a human interface to the Agon file system.
 
-It also provides an [[API|MOS API]] for file I/O and other common operations for BBC Basic and other third-party applications.
+It also provides an [MOS API](MOS-API.md) for file I/O and other common operations for BBC Basic and other third-party applications.
 
 ## System Requirements
 
