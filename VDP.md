@@ -67,7 +67,7 @@ VDU 23, 0 is reserved for commands sent to the VDP
 - `VDU 23, 0, &82`: Request text cursor position
 - `VDU 23, 0, &83, x; y;`: Get ASCII code of character at character position x, y
 - `VDU 23, 0, &84, x; y;`: Get colour of pixel at pixel position x, y
-- `VDU 23, 0, &85, channel, command, volume, freq; duration;`: Send a command to the [[VDP Enhanced Audio API|VDP - Enhanced Audio API]]
+- `VDU 23, 0, &85, channel, command, volume, freq; duration;`: Send a command to the [VDP Enhanced Audio API](VDP-‐-Enhanced-Audio-API.md)
 - `VDU 23, 0, &86`: Fetch the screen dimensions 
 - `VDU 23, 0, &87`: RTC control (Requires MOS 1.03 or above)
 - `VDU 23, 0, &88, delay; rate; led`: Keyboard Control (Requires MOS 1.03 or above)
